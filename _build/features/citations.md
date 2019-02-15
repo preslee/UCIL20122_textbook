@@ -20,7 +20,6 @@ include citations and a bibliography with your book.
 **Note that this only works if you're building your book HTML locally and
 hosting the HTML files online somewhere**. This can still use GitHub pages, but
 not the auto-generation of a cite from markdown files feature of GitHub pages.
-This is because GitHub pages doesn't include the `jekyll-scholar` plugin.
 
 Including citations with your markdown files or notebooks is done in the following
 way.
